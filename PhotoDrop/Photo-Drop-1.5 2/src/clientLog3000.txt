@@ -1,0 +1,38 @@
+
+22:08:52.192247: RMIClient: starting
+22:08:52.196507: RMIClient: ******** Welcome to the client interface. ************
+
+Please choose a command from upload, download or delete.
+If you need help choosing, please enter the keyword help. 
+Enter quit to exit.
+22:08:53.842174: RMIClient: Request sent by client: upload
+22:08:53.844407: RMIClient: Enter a file path for to upload to server.
+22:09:01.642087: RMIClient: File path entered by client: /Users/rohitraikhy/Downloads/Photo-Drop-1.5 2/src/happy_bear.jpeg
+22:09:01.643255: RMIClient: Now enter the fileName for the file.
+22:09:06.682089: RMIClient: File name entered by client: happy_bear.jpeg
+22:10:02.173206: RMIClient: Success UPLOAD
+22:10:02.173839: RMIClient: ******** Welcome to the client interface. ************
+
+Please choose a command from upload, download or delete.
+If you need help choosing, please enter the keyword help. 
+Enter quit to exit.
+22:10:17.722671: RMIClient: Request sent by client: download
+22:10:17.724137: RMIClient: Please enter the fileName for the file to download.
+22:10:32.034419: RMIClient: File name entered by client: happy_bear.jpeg
+22:10:32.035570: RMIClient: Please enter the filePath to store on machine.
+22:11:22.611303: RMIClient: File path entered by client: /Users/rohitraikhy/Downloads/Photo-Drop-1.5 2/src/DownloadedImages/happyBeaearProject.jpeg
+22:11:23.377215: RMIClient: Success Download
+22:11:23.377562: RMIClient: ******** Welcome to the client interface. ************
+
+Please choose a command from upload, download or delete.
+If you need help choosing, please enter the keyword help. 
+Enter quit to exit.
+22:11:33.817208: RMIClient: Request sent by client: delete
+22:11:33.817716: RMIClient: Enter a file name to delete from the server.
+22:11:50.391834: RMIClient: File name entered happy_bear.jpeg
+22:11:52.443811: RMIClient: Success Delete
+22:11:52.444174: RMIClient: ******** Welcome to the client interface. ************
+
+Please choose a command from upload, download or delete.
+If you need help choosing, please enter the keyword help. 
+Enter quit to exit.

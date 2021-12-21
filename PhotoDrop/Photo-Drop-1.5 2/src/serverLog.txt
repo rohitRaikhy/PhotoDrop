@@ -1,0 +1,14 @@
+
+22:09:06.737312: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s1
+22:09:06.741660: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s2
+22:09:06.746605: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s3
+22:09:26.924035: RMIServer: Success, uploaded the file to the server.
+22:09:45.749046: RMIServer: Success, uploaded the file to the server.
+22:10:02.171222: RMIServer: Success, uploaded the file to the server.
+22:11:23.374733: RMIServer: Success, downloaded from the server.
+22:11:50.402281: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s1
+22:11:50.405916: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s2
+22:11:50.409306: RMIServer: SUCCESS CAN UPLOAD FROM SERVER.From server: s3
+22:11:51.031243: RMIServer: Success, deleted the file from the server.
+22:11:51.653520: RMIServer: Success, deleted the file from the server.
+22:11:52.416955: RMIServer: Success, deleted the file from the server.
