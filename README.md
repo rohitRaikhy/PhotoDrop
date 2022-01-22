@@ -1,4 +1,4 @@
-# PhotoDrop# Photo-Drop
+# PhotoDrop
 
 Implemented the 4 algorithms (2 phase commit, timeout, data management replication) with multiple 
 clients and multiple servers using Java Remote Method Invocation (RMI).
