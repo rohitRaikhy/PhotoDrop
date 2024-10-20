@@ -1,29 +1,7 @@
-# PhotoDrop
+# Distributed Systems
 
 Implemented 4 algorithms (2 phase commit, timeout, data management replication) with multiple 
 clients and multiple servers using Java Remote Method Invocation (RMI).
-
-## Assumptions
-
-* Program can be multi-threaded.
-* Connection between server and client is made by Java RMI
-* Assuming that the user or client is comfortable running code in the commandline.
-* Assuming that the user or client is comfortable running dockerfile.
-* Assume that the clients wants there data shared between all 5 servers.
-* Multiple of the same file can be added to MongoDb
-* The user wants data stored in Mongo Database
-* We assume servers will not fail
-* Photos taken are of 1 client and 5 servers
-* Algorithm is only written for UPLOAD, DOWNLOAD and DELETE operation
-* Assume a file is uploaded first before download and delete are executed
-* If the time for the server to respond to the clients request takes more than 100000 milliseconds 
-  the system will exit with a status of 0.
-* The file extension will remain the same for a file for each operation
-* Allow the coordinator to connect before the servers connect
-* Multiple client.txt files possible depending on the number of clients connected to network
-* If a client enters a command incorrectly; they will be prompted to reenter the commands 
-  (UPLOAD DOWNLOAD OR DELETE) do not include help or quit. Only include all when you see the 
-  welcome statement.
 
 ## Getting Started
 
